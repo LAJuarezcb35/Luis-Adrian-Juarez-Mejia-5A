@@ -1,0 +1,53 @@
+
+
+.Titulo{
+font-size: 3em;
+text-transform: uppercase;
+font-family: 'Sansita Swashed', cursive;
+}
+.Titulo2{
+font-size: 2em;
+text-transform: uppercase;
+font-family: 'Sansita Swashed', cursive;
+}
+.titulo3{
+font-size: 1.5em;
+text-transform: uppercase;
+font-family: 'Sansita Swashed', cursive
+}
+.Subtitulo{
+font-size: 2em;
+text-transform: uppercase;
+font-family: 'Sansita Swashed', cursive;
+}
+
+.parrafo{
+font-family: 'Courier Prime', monospace;
+font-size: 1em;
+text-align: center;
+}
+.parrafoñ{
+font-family: 'Courier Prime', monospace;	
+font-size: 1em;
+text-align: center;
+}
+.parrafol{
+font-family: 'Courier Prime', monospace;	
+font-size: 1.5em;
+text-align: center;
+}
+.contacto{
+width: 500;
+height: 1000;
+text-align: center;
+background-color: #ff0000: 
+}
+.fondop{
+background: #04FFF7;
+
+}
+.foot{
+font-family: 'Sansita Swashed', cursive;
+text-align: center;
+}
+
